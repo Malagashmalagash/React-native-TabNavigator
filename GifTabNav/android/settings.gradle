@@ -1,0 +1,3 @@
+rootProject.name = 'GifTabNav'
+
+include ':app'
