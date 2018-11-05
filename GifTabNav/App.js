@@ -14,8 +14,7 @@ class LoginScreen extends React.Component {
     }
 }
 const navigationOptions = {
-    tabBarOptions: {
-    },
+    title: 'coucou',
     initialRouteName: 'Login',
 };
 
